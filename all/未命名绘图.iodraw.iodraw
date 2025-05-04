@@ -10,6 +10,9 @@
         <mxCell id="8EabffG4gXaC1IDWLxEa-2" value="宿主" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8EabffG4gXaC1IDWLxEa-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
