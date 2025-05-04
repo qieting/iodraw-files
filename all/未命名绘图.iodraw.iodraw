@@ -43,7 +43,7 @@
             <mxPoint x="210" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8EabffG4gXaC1IDWLxEa-12" value="&lt;h3&gt;Runable&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="8EabffG4gXaC1IDWLxEa-12" value="&lt;h3&gt;&lt;font color=&quot;#9f6060&quot;&gt;Runable&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="340" y="270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
