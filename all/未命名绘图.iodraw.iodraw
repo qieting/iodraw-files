@@ -11,7 +11,7 @@
           <mxGeometry x="160" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8EabffG4gXaC1IDWLxEa-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;io线程池&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8EabffG4gXaC1IDWLxEa-5" value="长任务线程池" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;glass=0;shadow=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="290" y="410" width="120" height="60" as="geometry" />
@@ -37,7 +37,7 @@
             <mxPoint x="239" y="347" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8EabffG4gXaC1IDWLxEa-10" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#23445D;exitX=-0.004;exitY=0.425;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8EabffG4gXaC1IDWLxEa-1">
+        <mxCell id="8EabffG4gXaC1IDWLxEa-10" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#23445D;exitX=-0.004;exitY=0.425;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8EabffG4gXaC1IDWLxEa-1" target="8EabffG4gXaC1IDWLxEa-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="420" as="sourcePoint" />
             <mxPoint x="210" y="370" as="targetPoint" />
